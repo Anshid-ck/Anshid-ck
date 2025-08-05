@@ -137,27 +137,12 @@ print(anshid)
 
 </div>
 </details>
-
----
-
-</td>
-<td width="50%">
-
-
-**💻 Language Distribution**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshid-ck&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&border_radius=15" width="100%" />
-
-</div>
-
 ---
 
 ## 🏆 **ACHIEVEMENTS & RECOGNITION**
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=anshid-ck&theme=matrix&no-frame=true&no-bg=false&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
-
 </div>
 ---
 
@@ -217,12 +202,3 @@ print(anshid)
 
 </div>
 
-### *"Building the future, one commit at a time"* 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
-
-**🚀 Ready to collaborate? Let's turn ideas into reality!**
-
-[![Made with ❤️ by Anshid](https://img.shields.io/badge/Made%20with%20❤️%20by-Anshid-00F5FF?style=for-the-badge&labelColor=000000)](https://github.com/anshid-ck)
-
-</div>

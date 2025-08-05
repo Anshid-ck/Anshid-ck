@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshid-ck&label=Profile%20Views&color=00f5ff&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=anshid-ck&label=Profile%20Views&color=00f5ff&style=for-the-badge&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/anshid-ck?label=Followers&style=for-the-badge&color=00f5ff&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/badge/Lives-India%20🇮🇳-00f5ff?style=for-the-badge&labelColor=000000" alt="Location" />
 </div>
@@ -115,15 +115,6 @@ print(anshid)
 </details>
 
 <details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-<div align="center">
-![GitHub ](https://img.shields.io/badge/GitHub%20Actions-Intermediate-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=000000)
-
-</div>
-</details>
-
-<details>
 <summary><b>🎨 Design & Tools</b></summary>
 <br>
 <div align="center">
@@ -134,7 +125,6 @@ print(anshid)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
 ![Git](https://img.shields.io/badge/Git-Intermediate-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Advanced-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
-
 </div>
 </details>
 ---
@@ -163,16 +153,6 @@ print(anshid)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshid-ck&theme=react-dark&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=📊%20Annual%20Contribution%20Graph" width="100%" />
-</div>
-
----
-
-## 🎵 **CODING SOUNDTRACK**
-
-<div align="center">
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=anshid&count=5&unique=true)](https://open.spotify.com/user/anshid)
-
 </div>
 
 ---
